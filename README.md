@@ -4,4 +4,4 @@
 
 * Caso interessado, deixe sua opinião sobre algo que viu
 
-> [LuiZamberlan](https://github.com/luizhzamberlan)
+> [luizhzamberlan](https://github.com/luizhzamberlan)
